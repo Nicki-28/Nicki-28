@@ -1,9 +1,9 @@
 # 💫 About Me:
 I'm an undergrad Computer Engineering student with a deep interest in Artificial Intelligence, Robotics, and Human-Centered Technology.
 
-I’m passionate about building tech that matters – and currently diving into all corners of AI, from didactic learning to generative models and multi-agent systems.
+I’m passionate about building tech that matters, and currently diving into all corners of AI, from didactic learning to generative models and multi-agent systems.
 
-I believe that great technology should be both **impactful and human-aware**.
+I believe that great technology should be both **impactful and ambitious**.
 
 ---
 
@@ -39,11 +39,6 @@ I believe that great technology should be both **impactful and human-aware**.
 ![](https://github-readme-stats.vercel.app/api?username=Nicki-28&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nicki-28&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicki-28&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nicki-28&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
