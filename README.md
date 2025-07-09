@@ -1,9 +1,6 @@
 # 💫 About Me:
-👋 ¡Hola! Soy una estudiante de Ingeniería en Informática apasionada por la programación y el desarrollo de software. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en distintos lenguajes de programación.<br><br>🔹 Actualmente, tengo experiencia en:<br><br>C, C++, Java, Haskell, SQL y Python<br>🚀 Me interesa el desarrollo backend, la inteligencia artificial y la resolución de problemas computacionales. 
-
-Actualmente, estoy explorando el Machine Learning y participando en hackatones para mejorar mis habilidades.<br><br>📫 Puedes encontrarme aquí en GitHub, donde comparto mis proyectos y aprendizajes. ¡Siempre abierta a colaborar en nuevas ideas!<br><br>
-
-<p align="left"> <img src="https://github.com/user-attachments/assets/02bb0ba7-a80c-4f21-835e-b4f639821f54" alt="100rabhcsmc" /> </p>
+I'm an undergrad Computer Engineering student with a deep interest in Artificial Intelligence, Robotics, and Human-Centered Technology.
+I’m passionate about building tech that matters, and currently diving into all corners of AI, from didactic learning to generative models and robotics.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-barreto28) 
