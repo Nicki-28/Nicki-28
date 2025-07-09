@@ -1,9 +1,14 @@
 # 💫 About Me:
 I'm an undergrad Computer Engineering student with a deep interest in Artificial Intelligence, Robotics, and Human-Centered Technology.
 
-I’m passionate about building tech that matters, and currently diving into all corners of AI, from didactic learning to generative models and multi-agent systems.
+I’m passionate about building technology that truly matters, and I’m currently diving into all corners of AI and backend in general.
 
-I believe that great technology should be both **impactful and ambitious**.
+I believe that great technology should be both impactful and helpful, bridging the gap between innovation and human needs.
+
+*Maybe too ambitious for my current abilities…*  
+*But as Tony Stark said:*  
+**“Sometimes you gotta run before you can walk.”**
+
 
 ---
 
