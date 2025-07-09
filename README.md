@@ -5,8 +5,8 @@ I’m passionate about building technology that truly matters, and I’m current
 
 I believe that great technology should be both impactful and helpful, bridging the gap between innovation and human needs.
 
-*Maybe too ambitious for my current abilities*   
-*But as Tony Stark said:*  
+Maybe too ambitious for my current abilities  
+But as Tony Stark said:
 **“Sometimes you gotta run before you can walk.”**
 
 
