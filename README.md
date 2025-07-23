@@ -6,9 +6,8 @@ I’m passionate about building technology that truly matters, and I’m current
 I believe that great technology should be both impactful and helpful, bridging the gap between innovation and human needs.
 
 Maybe too ambitious for my current abilities  
-But as Tony Stark said:
+But as Tony Stark said:  
 **“Sometimes you gotta run before you can walk.”**
-
 
 ---
 
@@ -18,6 +17,7 @@ But as Tony Stark said:
 ---
 
 ## 🚀 Tech Stack
+
 ### 👩‍💻 Languages & Frameworks:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,6 +32,8 @@ But as Tony Stark said:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### 🧰 Other Tools:
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -60,3 +62,4 @@ But as Tony Stark said:
 [![](https://visitcount.itsvg.in/api?id=Nicki-28&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
