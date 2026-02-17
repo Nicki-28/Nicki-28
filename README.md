@@ -43,9 +43,11 @@ But as Tony Stark said:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Nicki-28&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nicki-28&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicki-28&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Nicki-28&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicki-28&theme=monokai&hide_border=false" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Nicki-28&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 ---
 
