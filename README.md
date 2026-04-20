@@ -1,4 +1,4 @@
-# 💫 About me:
+# About me:
 
 <img src="https://github.com/Nicki-28/Nicki-28/blob/2bf165b240d73d9f2ec52cad5e8900710d89d2b7/octo.png?raw=true" align="right" width="280" alt="Octocat" />
 
@@ -16,7 +16,7 @@ But as Tony Stark said:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="separator" />
 
-## 🌐 Socials:
+## My Socials:
 <a href="https://www.linkedin.com/in/nicole-barreto28">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45" alt="LinkedIn">
 </a>
