@@ -57,5 +57,5 @@ But as Tony Stark said:
 
 ---
 
-## Enjoy this random dev quote
+## Enjoy this random dev quote :)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
