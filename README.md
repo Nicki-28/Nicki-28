@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-<img src="octocat-1776715996622.jpg" align="right" width="280" alt="Octocat" />
-
+<img src="https://raw.githubusercontent.com/Nicki-28/Nicki-28/main/octo.jpg" align="right" width="280" alt="Octocat" />
 I'm an undergrad Computer Engineering student with a deep interest in Artificial Intelligence, Robotics, and Human-Centered Technology.
 
 I’m passionate about building technology that truly matters, and I’m currently diving into all corners of AI and backend in general.
