@@ -1,13 +1,22 @@
-# 💫 About Me:
-I'm an undergrad Computer Engineering student with a deep interest in Artificial Intelligence, Robotics, and Human-Centered Technology.
-
-I’m passionate about building technology that truly matters, and I’m currently diving into all corners of AI and backend in general.
-
-I believe that great technology should be both impactful and helpful, bridging the gap between innovation and human needs.
-
-Maybe too ambitious for my current abilities  
-But as Tony Stark said:  
-**“Sometimes you gotta run before you can walk.”**
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h1>💫 About Me:</h1>
+      I'm an undergrad Computer Engineering student with a deep interest in Artificial Intelligence, Robotics, and Human-Centered Technology.
+      <br><br>
+      I’m passionate about building technology that truly matters, and I’m currently diving into all corners of AI and backend in general.
+      <br><br>
+      I believe that great technology should be both impactful and helpful, bridging the gap between innovation and human needs.
+      <br><br>
+      <i>Maybe too ambitious for my current abilities</i><br>
+      But as Tony Stark said:<br>
+      <b>“Sometimes you gotta run before you can walk.”</b>
+    </td>
+    <td valign="top" width="35%" align="center">
+      <img src="octocat-1776715996622.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,10 +55,7 @@ But as Tony Stark said:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicki-28&theme=monokai&hide_border=false" alt="GitHub Streak" />
 
-
 ---
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
