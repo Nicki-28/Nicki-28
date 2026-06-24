@@ -53,7 +53,10 @@ But as Tony Stark said:
 
 ## 📊 My GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicki-28&theme=monokai&hide_border=false" alt="GitHub Streak" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicki-28&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicki-28&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nicki-28&theme=radical&utcOffset=8)
 
 ---
 
